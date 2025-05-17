@@ -1,10 +1,6 @@
 
 <div align="center">
-  <br />
-    
-      <img src="public/images/readme.png" alt="Project Banner">
-    
-  <br />
+  
 
  
 
